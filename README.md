@@ -4,10 +4,6 @@
 
 Paste a YouTube link (or pick a video/audio file from your computer), click one button, and in a few minutes you get everything you need, without watching the whole thing.
 
-<!-- 📸 Add a screenshot of the app here, e.g.:
-![App screenshot](docs/app-screenshot.png)
--->
-
 ---
 
 ## 🤔 What problem does this solve?
@@ -61,7 +57,7 @@ YouTube link / File -> yt-dlp + FFmpeg + pydub -> 10-min audio chunks
 -> Streamlit UI
 -->
 
-![Flow Diagram](docs/flow-diagram.png)
+![Flow Diagram](flow-diagram.png)
 
 *Diagram: how a video travels through the app, from the link you paste to the answers you read.*
 
@@ -236,6 +232,7 @@ It will ask for a YouTube link or file path, then the language, print the result
 ## 🤝 Contributing
 
 Found a bug or have an idea? Feel free to open an **Issue** or send a **Pull Request**. All help is welcome.
+
 ---
 
 ⭐ If this project helped you, consider giving it a star on GitHub!
